@@ -29,7 +29,7 @@
   "dependencies": {
     "bufferstreams": "^1.1.0",
     "merge": "^1.2.0",
-    "ng-annotate-patched": "1.11.1",
+    "ng-annotate-patched": "1.12.0",
     "plugin-error": "^0.1.2",
     "through2": "^2.0.1",
     "vinyl-sourcemaps-apply": "^0.2.1"
